@@ -1,0 +1,31 @@
+<table class="table table-striped table-bordered">
+		<tbody>
+				<tr>
+						<td><strong>Рабочая длина ролика, мм</strong></td>
+						<td>200-1200</td>
+				</tr>
+				<tr>
+						<td><strong>Материал ролика</strong></td>
+						<td><p>Пластик,<br />
+								Нержавеющая сталь или <br />
+								оцинкованная сталь</p></td>
+				</tr>
+				<tr>
+						<td><strong>Диаметр ролика, мм</strong></td>
+						<td>20 -90</td>
+				</tr>
+				<tr>
+						<td><strong>Материал несущей части транспортера</strong></td>
+						<td>Углеродистая сталь, <br />
+								нержавеющая сталь</td>
+				</tr>
+				<tr>
+						<td><strong>Высота рольганга, мм</strong></td>
+						<td>900 - 1000</td>
+				</tr>
+				<tr>
+						<td><strong>Длина рольганга, мм</strong></td>
+						<td>1500 - 12000</td>
+				</tr>
+		</tbody>
+</table>
